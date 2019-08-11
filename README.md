@@ -26,3 +26,4 @@ The class only works with strings. We are not handling
 You have to pass the number intented as a string
 Of course a serializer can be used to validate this in production
 if it was user input.
+
