@@ -1,0 +1,15 @@
+[nosetests]
+processes = 1
+verbosity = 2
+
+[coverage:run]
+branch = True
+source =
+	solution
+omit=
+	tests.py
+
+[report]
+precision = 1
+show_missing = True
+ignore_errors = True

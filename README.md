@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/Telewa/number_to_words.svg?branch=master)](https://travis-ci.org/Telewa/number_to_words)
+[![codecov](https://codecov.io/gh/Telewa/number_to_words/branch/master/graph/badge.svg)](https://codecov.io/gh/Telewa/number_to_words)
+
 # Given any number up to a vigintillion, this class will return the same number in words
 
 ## requirements
